@@ -53,13 +53,14 @@ main {
     flex-direction: row;
     align-items: center;
     width: 100%;
+    margin-bottom: 170px;
 }
 
 .container h3 {
-    padding-right: 200px;
     color: #017f9f;
     text-align: center;
     font-weight: bold;
+    font-size: 30px;
 }
 
 .texto {
