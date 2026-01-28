@@ -54,6 +54,7 @@ main {
     align-items: center;
     width: 100%;
     margin-bottom: 170px;
+    gap: 200px;
 }
 
 .container h3 {
@@ -75,4 +76,27 @@ main {
 .nombre {
     display: flex;
     flex-direction: row;
+}
+
+.textodoscolumnas h4 {
+    font-size: large;
+    color: #017f9f;
+    margin-top: 20px;
+}
+
+.textodoscolumnas {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.textodoscolumnas p {
+    color: white;
+}
+
+.texto h4 {
+    font-size: large;
+    color: #017f9f;
+    margin-top: 20px;
 }
